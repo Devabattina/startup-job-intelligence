@@ -5,8 +5,8 @@ import os
 
 load_dotenv()
 
-EMAIL = os.getenv("EMAIL_ADDRESS")
-PASSWORD = os.getenv("EMAIL_PASSWORD")
+EMAIL = os.getenv("anjaniai2026@gmail.com")
+PASSWORD = os.getenv("onwt clvx erbg qtii")
 TO = os.getenv("RECIPIENT_EMAIL")
 
 def send_email(html):
