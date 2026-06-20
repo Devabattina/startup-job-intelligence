@@ -2,7 +2,7 @@ import smtplib
 from email.mime.text import MIMEText
 
 EMAIL = "anjaniai2026@gmail.com"
-PASSWORD = "vmye cool ypkk dyry"
+PASSWORD = "onwt clvx erbg qtii"
 
 msg = MIMEText("Hello Anjani! This is a test email from Python.")
 
